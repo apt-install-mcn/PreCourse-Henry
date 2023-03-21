@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Repositorio del modulo 2
+crear repositorio, clonarlo desde github a mi comput
